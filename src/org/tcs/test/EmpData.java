@@ -26,7 +26,7 @@ public static void main(String[] args) {
 	a.empDetail();
 	a.empDetail("jhon");
 	a.empDetail("jaya", 4567);
-	
+	 System.out.println("new conflict by sugu");
 	
 }
 
