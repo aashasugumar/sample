@@ -26,7 +26,12 @@ public static void main(String[] args) {
 	a.empDetail();
 	a.empDetail("jhon");
 	a.empDetail("jaya", 4567);
+//<<<<<<< HEAD
+//=======
 	System.out.println("suceesss...");
+	 System.out.println("new conflict by sugu");
+
+//>>>>>>> 62a2199e0912e7e9ca44a28c6f422451c6056465
 	
 }
 
